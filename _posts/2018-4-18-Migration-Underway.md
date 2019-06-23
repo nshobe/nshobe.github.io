@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Welcome to the new site
-excerpt_separator: <!--more-->
 ---
+All the wonderful things, now brought to you by github
+
 
 # We have moved! But you're in the right place.
 My site has now gone from `raspberry pi` to `aws` and is now on `github pages`. The pi was a bit slow in response, more to do with crappy residential cable internet. AWS wasn't free (anymore) and I didn't want to keep leap frogging accounts. This seemed like the next best thing, and also meant no bother with patch management or other admin related tasks.
-<!--more-->
 
 ## About the new setup
 

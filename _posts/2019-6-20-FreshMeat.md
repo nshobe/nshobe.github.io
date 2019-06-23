@@ -2,6 +2,9 @@
 layout: post
 title: Mid Year Resolutions
 ---
+Because New Year resolutions are sooo last February.
+
+
 # Promises Promises
 I'm renewing efforts to keep this up to date.
 
