@@ -17,5 +17,5 @@ _(Meaningfulness is questionable)_
  - [Obligatory Github Profile](https://github.com/nshobe)
 
 _More coming, if lazyness can be sacked like the city of Troy_
-(No really, last update was Jun 23 2019 (note: make that a script)(note: [I did](/upmydate.sh)) )
+(No really, last update was Jun 23 2019 (note: make that a script)(note: [I did](https://raw.githubusercontent.com/nshobe/nshobe.github.io/master/upmydata.sh)) )
 
