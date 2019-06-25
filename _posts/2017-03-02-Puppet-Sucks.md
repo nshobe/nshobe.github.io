@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Puppet Sucks
+tags: SysAdmin Puppet
 ---
 Okay, maybe not really entirely. Hell, I _did_ go to puppetconf 2016 and had a well enough time. But there's some larger points to be made, and while I feel puppet is my top choice for configuration management currently, we should keep honest about the pitfalls in order to improve the breed.
 

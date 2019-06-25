@@ -2,6 +2,7 @@
 layout: page
 title: Random Passwords
 permalink: /randompass/
+tags: SysAdmin Code
 ---
 ## /dev/urandom
 Serious blew my mind first time I used it.

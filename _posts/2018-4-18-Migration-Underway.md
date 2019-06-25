@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome to the new site
+tags: Site-News
 ---
 All the wonderful things, now brought to you by github
 

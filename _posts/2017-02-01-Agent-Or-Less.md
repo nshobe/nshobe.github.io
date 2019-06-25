@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Agent or Less
+tags: SysAdmin Philosophy
 ---
 ## To agent or not
 This can be a very heated debate, and I see merits to both sides. So I'm just going to lay out the ground work for those that don't know the game is being played, as well as maybe help people see that both sides have reason to exist, even if they still want to kill them.

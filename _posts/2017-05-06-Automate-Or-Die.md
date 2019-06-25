@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Automate or Die
+tags: SysAdmin Philosophy
 ---
 No really, if your company doesn't have this attitude, they're bound to be replaced by someone leaner.
 

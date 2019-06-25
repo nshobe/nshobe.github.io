@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Best Puppeting Practices
+tags: SysAdmin Puppet
 ---
 ## Why Start Here
 Because you'll hate yourself _less_.

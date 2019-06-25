@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mid Year Resolutions
+tags: Site-News
 ---
 Because New Year resolutions are sooo last February.
 
