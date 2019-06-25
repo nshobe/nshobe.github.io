@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Random Passwords
+permalink: /randompass/
 ---
 ## /dev/urandom
 Serious blew my mind first time I used it.
