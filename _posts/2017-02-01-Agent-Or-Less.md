@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Agent or Less
 ---
 ## To agent or not
