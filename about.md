@@ -25,11 +25,12 @@ I'm a system administrator, which is essentially not _that_ much different than 
 1. Find new adventures, places to see, things to find interest in
 1. Built, maintain, and find new relationships with peers that keep me sharp
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+### Favorite Quips
+* Everyone has a test environment. Some are lucky it's not production.
+* Want to see how good your puppet code is? Disable SSH.
+* Do you have *one* server? You need to automate.
+* You can always scale up until you can't.
+* Systems never stagnate, they're either moving forward or back.
 
 ### Contact me
 
