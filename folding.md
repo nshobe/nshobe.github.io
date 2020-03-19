@@ -9,4 +9,4 @@ Folding@home is a project focused on disease research. The problems we’re solv
 
 This page exists as the "home page" for our team: Backyard Lawn Chairs.
 
-![We Fold Like Cheap Lawn Chairs](/images/lawnchair.jpg)
+![We Fold Like Cheap Lawn Chairs](/images/lawn-chair.jpg)
