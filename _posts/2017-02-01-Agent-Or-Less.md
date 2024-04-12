@@ -24,3 +24,4 @@ I try to take a bit more abstracted mindset to the conversation. I don't like an
 ## Conclusion
 Agents suck. But they're a necessary evil many times. Do all you can to architect them away from your machines, but don't be surprised when the shiny new thing being rammed down from above requires one. Sometimes shiny/fancy/revolutionary comes with a price until it becomes something "system level" that can be abstracted away and trusted by the OS to handle correctly.
 
+## New Heading
